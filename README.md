@@ -14,9 +14,7 @@
 </div>
 
 ---
-
 #### :space_invader: About me
-
 - :vulcan_salute: I'm @Makskornakov, currently studying :mortar_board: Business administration in the Netherlands :netherlands:
 - :computer: Apart from studying, I play with Web :globe_with_meridians: development, mainly focusing on trading Node.js crypto bot :chart:
 - :bellhop_bell: Better reach me via [Telegram](https://t.me/makskornakov) or any contacts above :arrow_up:
@@ -25,14 +23,12 @@
 
 <div align="center">
 <img src="https://media2.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e471axerhdmbamhunbydqtf7mtwdwi7e8m6s7tiucsb&rid=giphy.gif&ct=s" width="150"/>
-<br>
- <font align="center" size="5">Mostly used<font>
- 
-<br>
-
+<br><br>
+ <h3 align="center">Mostly used<h3>
+<br><br>
 <div align="center">
-<img src=" https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
+<img src=" https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
