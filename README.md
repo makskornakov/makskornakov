@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <a href="https://darkforce.nl"><img src="logo.svg" width="200"/></a>
-</div>
+  <a href="https://darkforce.nl"><img src="logo.svg" width="300"/></a>
+</div><br>
 <div align="center">
 <a href="https://t.me/makskornakov">
   <img src="https://img.shields.io/static/v1?label=&message=Telegram&color=blue&?style=for-the-badge&logo=telegram" alt="My Telegram"/></a>
