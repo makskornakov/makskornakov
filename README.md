@@ -41,9 +41,9 @@
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" title="Premier Pro" alt="Premier Pro" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="40" height="40"/>&nbsp;&nbsp;
+<a href="https://www.github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/nl/products/illustrator.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" title="Premier Pro" alt="Premier Pro" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.sketch.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
