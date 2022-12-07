@@ -47,7 +47,7 @@
 <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" title="Premier Pro" alt="Premier Pro" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.sketch.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
-   <br>
-   <div align="left" border="1px solid red" width="300" height="250">
+   <br><br>
+   <div align="center" style="margin-top: 50px">
      <a href="https://darkforce.nl"><img src="logo.svg" width="300"/></a>
    </div>
