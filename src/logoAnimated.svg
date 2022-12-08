@@ -7,8 +7,8 @@
   --red: red;
   --yellow: #ff0;
   --pink: #ed00b1;
-  --primary: var(--blue);
-  --supplement: var(--pink);
+  --primary: var(--red);
+  --supplement: var(--green);
   --clipHorHalf: polygon(25% 0, 75% 0, 75% 100%, 25% 100%);
   --clipVertHalf: polygon(0 25%, 100% 25%, 100% 75%, 0 75%);
 }
