@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://darkforce.nl"><img src="./src/logoClassic.svg" width="150"/></a>
+  <a href="https://darkforce.nl"><img src="./src/logoAnimated.svg" width="350"/></a>
 </div><br><br>
 <div align="center">
 <a href="https://t.me/makskornakov">
