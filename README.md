@@ -50,4 +50,4 @@
 <a href="https://www.sketch.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
 <br><br>
-<img src="./src/logoAnimated.svg" width="200" align="center"/>
+<img src="./src/logoAnimated.svg" width="400" align="center"/>
