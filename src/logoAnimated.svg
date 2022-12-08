@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><svg id="_лой_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 100">
   <defs>
     <style>:root {
-  --green: #0f0;
+  --green: #80FF00;
   --orange: #f55500;
   --blue: #0ff;
-  --red: red;
+  --red: #FF0000;
   --yellow: #ff0;
-  --pink: #ed00b1;
+  --pink: #FF00FF;
+
   --primary: var(--red);
-  --supplement: var(--green);
+  --supplement: var(--blue);
   --clipHorHalf: polygon(25% 0, 75% 0, 75% 100%, 25% 100%);
   --clipVertHalf: polygon(0 25%, 100% 25%, 100% 75%, 0 75%);
 }
