@@ -1,0 +1,23 @@
+{
+  "basics": {
+    "name": "Maksim Kornakov",
+    "label": "Student",
+    "image": "",
+    "email": "makskornakov@gmail.com",
+    "phone": "+31 6 45 507 424",
+    "url": "https://wedark.nl",
+    "summary": "Business Administration student, who is also a software developer.",
+    "location": {
+      "address": "Albert Cuypstraat 18",
+      "postalCode": "8932EC",
+      "city": "Leeuwwarden",
+      "countryCode": "NL",
+      "region": "Friesland"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "makskornakov",
+      "url": "https://github.com/makskornakov"
+    }]
+  }
+}
