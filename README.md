@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Telegram&color=blue&?style=for-the-badge&logo=telegram" alt="My Telegram"/></a>
 <a href="https://instagram.com/makskornakov">
 <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=blueviolet&?style=for-the-badge&logo=instagram" alt="My Instagram"/></a>
-<a href="">
+<a href="https://www.linkedin.com/in/makskornakov/">
 <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=informational&?style=for-the-badge&logo=LinkedIn" alt="My LinkedIn"/></a>
 </div>
 <div align="center">
