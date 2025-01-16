@@ -26,21 +26,28 @@
 <div align="center">
 <img src="https://media2.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e471axerhdmbamhunbydqtf7mtwdwi7e8m6s7tiucsb&rid=giphy.gif&ct=s" width="150"/>
 <br>
- <h3 align="center">Used over past years<h3>
+ <h3 align="center">Used over the years<h3>
 <br>
 <div align="center">
 <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://nodejs.dev/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.digitalocean.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/digitalocean/digitalocean-original-wordmark.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://vscode.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="Visual studio code" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.markdownguide.org"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp;&nbsp;
-           
+<a href="https://nodejs.dev/en/"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://nextjs.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="NEXTjs" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://nestjs.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nestjs/nestjs-original.svg" title="Nestjs" alt="Nestjs" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://redis.io"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.prisma.io"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;&nbsp;
+
 </div>
 <br>
+ <h3 align="center">Used over the years<h3>
+<br>
+<div align="center">
+<a href="https://isocpp.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.lua.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/></a>&nbsp;&nbsp;
+</div>
 
 <div align="center">
 <a href="https://www.github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/></a>&nbsp;&nbsp;
