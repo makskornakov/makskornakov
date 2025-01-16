@@ -42,19 +42,23 @@
 
 </div>
 <br>
- <h3 align="center">Used over the years<h3>
+ <h3 align="center">Touched for fun<h3>
 <br>
 <div align="center">
 <a href="https://isocpp.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.lua.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
 
+<br>
+ <h3 align="center">My handy toolbox<h3>
+<br>
 <div align="center">
-<a href="https://www.github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.adobe.com/nl/products/illustrator.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-original.svg" title="Premier Pro" alt="Premier Pro" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.sketch.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sketch/sketch-original.svg" title="Sketch" alt="Sketch" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.blender.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.figma.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://vscode.dev"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://developer.apple.com/xcode/"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
 <br><br>
+
 <img src="./src/logoClassic.svg" width="150" align="center"/>
