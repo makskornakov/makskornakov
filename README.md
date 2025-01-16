@@ -54,9 +54,11 @@
 <br>
 <div align="center">
 <a href="https://www.blender.org"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.figma.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://vscode.dev"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.digitalocean.com"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" alt="Digital Ocean" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://developer.apple.com/xcode/"><img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/></a>&nbsp;&nbsp;
 </div>
 <br><br>
