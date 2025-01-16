@@ -18,7 +18,7 @@
 #### :space_invader: About me
 
 - :vulcan_salute: I'm @Makskornakov, currently studying :mortar_board: Business administration in the Netherlands :netherlands:
-- :computer: Apart from studying, I play with Web :globe_with_meridians: development, mainly focusing on trading Node.js crypto bot :chart:
+- :computer: I am obsessed with automating complex systems for businesses and individuals, mostly working in web :globe_with_meridians:
 - :bellhop_bell: Better reach me via [Telegram](https://t.me/makskornakov) or any contacts above :arrow_up:
 
 ---
@@ -26,7 +26,7 @@
 <div align="center">
 <img src="https://media2.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=ecf05e471axerhdmbamhunbydqtf7mtwdwi7e8m6s7tiucsb&rid=giphy.gif&ct=s" width="150"/>
 <br>
- <h3 align="center">Mostly used<h3>
+ <h3 align="center">Used over past years<h3>
 <br>
 <div align="center">
 <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;&nbsp;
